@@ -1,6 +1,6 @@
-# computer_vision_portfolio
+# Computer vision portfolio
 Research and implementation of computer vision pipelines
 
-* VAE image reconstruction
 * Custom ViT training pipeline
-* Detection, tracking, and reidentification pipeline
+* Detection, tracking, and re-identification pipeline
+* VAE image reconstruction
