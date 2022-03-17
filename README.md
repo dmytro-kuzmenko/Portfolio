@@ -1,5 +1,5 @@
 # Computer Vision
-* 2021-10: [Vehicle re-identificationm matching the entry and exit on a paid part of the highway](https://docs.google.com/presentation/d/1zZCBE86aHT9x0K1hhb9Rpat3yKQFjI0yq-DJpV3L2zE/edit?usp=sharing)
+* 2021-10: [Vehicle re-identification matching the entry and exit on a paid part of the highway](https://docs.google.com/presentation/d/1zZCBE86aHT9x0K1hhb9Rpat3yKQFjI0yq-DJpV3L2zE/edit?usp=sharing)
 * 2021-08: [Detection, tracking, and re-id pipeline](https://github.com/righteousronin/Portfolio/tree/main/Computer%20Vision/Detection%2C%20re-id%2C%20and%20tracking)
 * 2021-06: [Custom ViT training pipeline](https://github.com/righteousronin/Portfolio/tree/main/Computer%20Vision/Custom%20ViT%20pipeline)
 * 2021-05: [VAE image reconstruction](https://github.com/righteousronin/Portfolio/tree/main/Computer%20Vision/VAE%20anime%20image%20reconstruction)
