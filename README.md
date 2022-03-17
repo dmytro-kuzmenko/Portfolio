@@ -19,7 +19,7 @@ Based on [this RL book.](http://incompleteideas.net/book/RLbook2020.pdf)
 
 # Time series analysis
 * 2022-02: [ACF, PACF, GARCH](https://github.com/righteousronin/Portfolio/blob/main/Time%20Series/ACF.%20PACF.%20GARCH.ipynb)
-* 2022-02: [Exponenetial Smoothing, SARIMAX](https://github.com/righteousronin/Portfolio/blob/main/Time%20Series/Exponential%20smoothing.%20SARIMA.ipynb)
+* 2022-02: [Exponential Smoothing, SARIMAX](https://github.com/righteousronin/Portfolio/blob/main/Time%20Series/Exponential%20smoothing.%20SARIMA.ipynb)
 * 2022-02: [Hurst exponent, anomaly detection](https://github.com/righteousronin/Portfolio/blob/main/Time%20Series/Hurst%20exponent.%20Anomaly%20detection.ipynb)
 
 # Personal projects
@@ -27,7 +27,7 @@ Based on [this RL book.](http://incompleteideas.net/book/RLbook2020.pdf)
 	* Financial and unemployment rate time series analysis
 	* Militiary and humanitarian support research
 	* Fake filtering model
-	* CLIP-based content-generating telegram bot
+	* [CLIP-based content-generating telegram bot](https://github.com/righteousronin/cyber-memebot)
 * 2021-05: [Open-data system for the State Register of Court Decisions](http://ekmair.ukma.edu.ua/bitstream/handle/123456789/22455/Kuzmenko_Bakalavrska_robota.pdf?sequence=1&isAllowed=y)
 
 # Accomplishments
