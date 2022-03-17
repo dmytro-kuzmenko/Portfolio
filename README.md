@@ -5,7 +5,7 @@
 * 2021-05: [VAE image reconstruction](https://github.com/righteousronin/Portfolio/tree/main/Computer%20Vision/VAE%20anime%20image%20reconstruction)
 
 # Reinforcement Learning
-Based on [this book](http://incompleteideas.net/book/RLbook2020.pdf)
+Based on [this RL book.](http://incompleteideas.net/book/RLbook2020.pdf)
 * 2022-01: [General problems](https://github.com/righteousronin/Portfolio/blob/main/Reinforcement%20Learning/1.%20General%20RL%20questions.pdf)
 * 2022-01: [Multi-armed bandit parameter studty](https://github.com/righteousronin/Portfolio/blob/main/Reinforcement%20Learning/2.%20Multi-armed%20bandit%20paramter%20study.ipynb)
 * 2022-01: [Finite MDPs](https://github.com/righteousronin/Portfolio/blob/main/Reinforcement%20Learning/3.%20Finite%20MDP.pdf)
@@ -23,18 +23,15 @@ Based on [this book](http://incompleteideas.net/book/RLbook2020.pdf)
 * 2022-02: [Hurst exponent, anomaly detection](https://github.com/righteousronin/Portfolio/blob/main/Time%20Series/Hurst%20exponent.%20Anomaly%20detection.ipynb)
 
 # Personal projects
-* 2022-03: NaUKMA Machine Learning department 
-Projects include:
--- Financial and unemployment rate time series analysis
--- Militiary and humanitarian support research
--- Fake filtering model
--- CLIP-based content-generating telegram bot
+* 2022-03: NaUKMA Machine Learning department. Projects include:
+	* Financial and unemployment rate time series analysis
+	* Militiary and humanitarian support research
+	* Fake filtering model
+	* CLIP-based content-generating telegram bot
 * 2021-05: [Open-data system for the State Register of Court Decisions](http://ekmair.ukma.edu.ua/bitstream/handle/123456789/22455/Kuzmenko_Bakalavrska_robota.pdf?sequence=1&isAllowed=y)
 
 # Accomplishments
-* 2022-03: Author of an AI-centred content:
--- [telegram channel](https://t.me/aicoven)
--- [blog on Medium](https://righteous-ronin.medium.com)
+* 2022-03: Author of an AI-centred [telegram channel](https://t.me/aicoven) and [Medium blog](https://righteous-ronin.medium.com)
 * 2022-02: [AI/ML Ideathon 2 -- solution for building new stores network system](https://docs.google.com/presentation/d/1vPYM-vPZQ2GFgk9oqp5px6_QXoq0ZxqH/edit?usp=sharing&ouid=102286188667012603283&rtpof=true&sd=true)
 * 2021-12: [ML-centered lecture for students of Kyiv School of Economics](https://gdsc.community.dev/events/details/developer-student-clubs-kyiv-school-of-economics-presents-machine-learning-vs-software-engineering-overview-of-ai-foundations-and-application-areas/)
 * 2021-09: [WILD WILD HACK 2021 -- virtual try-on and wardrobe recommender system](https://youtu.be/M7cR-Sd4XU0)
