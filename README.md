@@ -24,9 +24,8 @@ Based on [this RL book.](http://incompleteideas.net/book/RLbook2020.pdf)
 
 # Personal projects
 * 2022-03: NaUKMA Machine Learning department. Projects include:
-	* Financial and unemployment rate time series analysis
-	* Militiary and humanitarian support research
-	* Fake filtering model
+	* [Financial and unemployment rate time series analysis](https://colab.research.google.com/drive/1Jt-QHQIZvF7G0xzC_eV0klFD1nernmQi?usp=sharing)
+	* [Fake filtering model](https://www.kaggle.com/lethaldiran/fake-no-fake-modeling)
 	* [CLIP-based content-generating telegram bot](https://github.com/righteousronin/cyber-memebot)
 * 2021-05: [Open-data system for the State Register of Court Decisions](http://ekmair.ukma.edu.ua/bitstream/handle/123456789/22455/Kuzmenko_Bakalavrska_robota.pdf?sequence=1&isAllowed=y)
 
