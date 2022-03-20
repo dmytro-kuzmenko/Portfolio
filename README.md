@@ -17,6 +17,9 @@ Based on [this RL book.](http://incompleteideas.net/book/RLbook2020.pdf)
 ## Adversarial Robustness in Deep Learning
 * 2021-09: [Adversarial robustness and adversarial attacks](https://docs.google.com/presentation/d/1yTowZfeE9WaqxIKDuJgQ2cmLCp_KEvNXYoj35iYVgz0/edit?usp=sharing)
 
+## Tradional Machine Learning
+* 2022-03: [Regression Showcase](https://github.com/righteousronin/Portfolio/blob/main/Machine%20Learning/Regression/Regression%20Showcase.ipynb)
+
 ## Time series analysis
 * 2022-02: [ACF, PACF, GARCH](https://github.com/righteousronin/Portfolio/blob/main/Time%20Series/ACF.%20PACF.%20GARCH.ipynb)
 * 2022-02: [Exponential Smoothing, SARIMAX](https://github.com/righteousronin/Portfolio/blob/main/Time%20Series/Exponential%20smoothing.%20SARIMA.ipynb)
